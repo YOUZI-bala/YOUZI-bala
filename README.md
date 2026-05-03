@@ -1,16 +1,23 @@
-## Hi there 👋
+# 你好,我是 YOUZI-bala 👋
 
-<!--
-**YOUZI-bala/YOUZI-bala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 一个正在学习编程的探索者
 
-Here are some ideas to get you started:
+## 🌱 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 目前在学习:**GitHub、编程基础**
+- 📚 兴趣方向:写代码、做笔记、记录学习
+- 🎯 2026 年目标:掌握至少一门编程语言
+
+## 🛠 技能栈
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub 数据
+
+![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=YOUZI-bala&show_icons=true&theme=tokyonight)
+
+---
+
+⭐️ From [YOUZI-bala](https://github.com/YOUZI-bala)
