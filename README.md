@@ -16,7 +16,7 @@
 
 ## 📊 GitHub 数据
 
-![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=YOUZI-bala&show_icons=true&theme=tokyonight)
+![YOUZI-bala的GitHub统计](https://github-readme-stats.vercel.app/api?username=YOUZI-bala&show_icons=true&theme=tokyonight)
 
 ---
 
